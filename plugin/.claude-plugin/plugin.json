@@ -1,0 +1,19 @@
+{
+  "name": "mac-printer-setup",
+  "version": "0.1.0",
+  "description": "Mac 印表機連線與預設設定：印不出來時找出印表機在網路的哪一層（同網段、上層路由器、只開著 Wi-Fi Direct）並把佇列改到連得到的位址；依目前連得到哪台印表機自動切換預設印表機（launchd）。",
+  "author": {
+    "name": "Che Cheng"
+  },
+  "license": "MIT",
+  "keywords": [
+    "macos",
+    "printer",
+    "cups",
+    "ipp",
+    "bonjour",
+    "airprint",
+    "launchd",
+    "network"
+  ]
+}
